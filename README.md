@@ -57,9 +57,9 @@ Building practical solutions with a focus on automation, simplicity, and efficie
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfurkancekerekE&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfurkancekerek&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
